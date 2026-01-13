@@ -1,0 +1,42 @@
+[
+  {
+    "nom": "Ain",
+    "numero": "01"
+  },
+  {
+    "nom": "Aisne",
+    "numero": "02"
+  },
+  {
+    "nom": "Allier",
+    "numero": "03"
+  },
+  {
+    "nom": "Alpes-de-Haute-Provence",
+    "numero": "04"
+  },
+  {
+    "nom": "Hautes-Alpes",
+    "numero": "05"
+  },
+  {
+    "nom": "Alpes-Maritimes",
+    "numero": "06"
+  },
+  {
+    "nom": "Ardèche",
+    "numero": "07"
+  },
+  {
+    "nom": "Ardennes",
+    "numero": "08"
+  },
+  {
+    "nom": "Ariège",
+    "numero": "09"
+  },
+  {
+    "nom": "Aube",
+    "numero": "10"
+  }
+]
